@@ -1,0 +1,17 @@
+# Exclude raw medical image datasets and trained model binaries
+dataset/
+models/*.keras
+models/*.h5
+models/*.npz
+
+# Exclude Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Exclude Jupyter & OS temp files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

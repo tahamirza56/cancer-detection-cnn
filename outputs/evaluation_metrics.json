@@ -1,0 +1,14 @@
+{
+  "Accuracy": 1.0,
+  "Precision": 1.0,
+  "Recall (Sensitivity)": 1.0,
+  "Specificity": 1.0,
+  "F1-Score": 1.0,
+  "ROC-AUC": 1.0,
+  "Confusion Matrix": {
+    "tn": 30,
+    "fp": 0,
+    "fn": 0,
+    "tp": 30
+  }
+}
